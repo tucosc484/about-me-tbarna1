@@ -14,6 +14,6 @@ My ideal career would be one where I am at the center of banking and finance. Ev
 
 In terms of programming expereince I do have extensive experience in Java, C++, COBOL and Netbeans. In a previous class I was able to code a car rental program where users were able to rent vehicles from either a private shop or a corporate shop. Afterwhich a user could choose from the list of available cars based on makes and models. As it regards web experience, I do have experience with HTML code creation from scratch as well as editting. In a previous class I was able to design a website which ranked the top 5 smartphones of 2018 based on their respective price, specifications and popularity. The website was in no means perfect, but it did accomplish its goals that were set from the beginning.
 
-See [Codeacademy Profile](https://www.codecademy.com/users/tbarna1/achievements)
+See [Codeacademy Profile](https://www.codecademy.com/tbarna1)
 
 
